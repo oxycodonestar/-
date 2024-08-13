@@ -8,5 +8,5 @@ print(my_dict)
 
 my_set = {1,2,3,1,2,3, 'hello', ('Привет, я люблю Python')}
 print(my_set)
-print(my_set.remove('hello'))
+print(my_set.add('hello'))
 print(my_set)
