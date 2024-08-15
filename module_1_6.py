@@ -10,5 +10,6 @@ print(my_dict)
 
 my_set = {1, 2, 3, 1, 2, 3, 'hello', ('Привет, я люблю Python')}
 print(my_set)
+my_set.add('hello world')
 my_set.discard(1)
 print(my_set)
